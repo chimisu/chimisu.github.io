@@ -43,13 +43,38 @@
   </url>
   
   <url>
-    <loc>https://chimisu.cn/tags/advice/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <loc>https://chimisu.cn/categories/</loc>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chimisu.cn/tags/ai/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <loc>https://chimisu.cn/tags/github/</loc>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chimisu.cn/tags/hugo/</loc>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chimisu.cn/categories/hugo/</loc>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chimisu.cn/tags/</loc>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chimisu.cn/blog/</loc>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chimisu.cn/blog/blog-post-1/</loc>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -69,86 +94,6 @@
   
   <url>
     <loc>https://chimisu.cn/course/course-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chimisu.cn/tags/automation/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chimisu.cn/categories/automation-system/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chimisu.cn/categories/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chimisu.cn/categories/deep-learning/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chimisu.cn/tags/eco/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chimisu.cn/categories/eco-system/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chimisu.cn/tags/education/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chimisu.cn/categories/education-system/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chimisu.cn/blog/blog-post-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chimisu.cn/blog/blog-post-2/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chimisu.cn/blog/blog-post-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chimisu.cn/blog/blog-post-4/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chimisu.cn/blog/blog-post-5/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chimisu.cn/blog/blog-post-6/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chimisu.cn/tags/english/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chimisu.cn/categories/english-learning/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
@@ -203,11 +148,6 @@
   </url>
   
   <url>
-    <loc>https://chimisu.cn/categories/mathmatics-learning/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://chimisu.cn/notice/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
@@ -219,21 +159,6 @@
   
   <url>
     <loc>https://chimisu.cn/book/course-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chimisu.cn/course/course-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chimisu.cn/tags/rules/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chimisu.cn/tags/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
@@ -278,12 +203,12 @@
   </url>
   
   <url>
-    <loc>https://chimisu.cn/blog/</loc>
+    <loc>https://chimisu.cn/book/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chimisu.cn/book/</loc>
+    <loc>https://chimisu.cn/course/course-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
